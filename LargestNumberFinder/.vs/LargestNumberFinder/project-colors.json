@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37d64410-4089-4649-a7c1-52ed4fe936b8": {
+      "ProjectGuid": "37d64410-4089-4649-a7c1-52ed4fe936b8",
+      "DisplayName": "LargestNumberFinder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
