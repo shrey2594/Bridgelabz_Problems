@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\primefactor.exe
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\primefactor.deps.json
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\primefactor.runtimeconfig.json
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\primefactor.dll
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\ref\primefactor.dll
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\bin\Debug\net6.0\primefactor.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.dll
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\ref\primefactor.dll
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\primefactor\obj\Debug\net6.0\primefactor.genruntimeconfig.cache
