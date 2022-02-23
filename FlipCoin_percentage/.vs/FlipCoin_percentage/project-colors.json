@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff15eae6-437e-467c-b788-85de3a75b409": {
+      "ProjectGuid": "ff15eae6-437e-467c-b788-85de3a75b409",
+      "DisplayName": "FlipCoin_percentage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
