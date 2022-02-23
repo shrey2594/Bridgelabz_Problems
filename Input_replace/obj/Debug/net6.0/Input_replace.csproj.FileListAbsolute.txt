@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\Input_replace.exe
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\Input_replace.deps.json
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\Input_replace.runtimeconfig.json
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\Input_replace.dll
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\ref\Input_replace.dll
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\bin\Debug\net6.0\Input_replace.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.dll
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\ref\Input_replace.dll
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\Input_replace\obj\Debug\net6.0\Input_replace.genruntimeconfig.cache
