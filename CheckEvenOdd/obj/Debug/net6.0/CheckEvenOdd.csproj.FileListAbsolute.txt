@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.exe
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.deps.json
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.runtimeconfig.json
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.dll
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\ref\CheckEvenOdd.dll
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\bin\Debug\net6.0\CheckEvenOdd.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.dll
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\ref\CheckEvenOdd.dll
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\CheckEvenOdd\obj\Debug\net6.0\CheckEvenOdd.genruntimeconfig.cache
