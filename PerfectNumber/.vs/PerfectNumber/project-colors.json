@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a1ee4ed-1d4b-43e9-8ca0-4fccf50bb4ca": {
+      "ProjectGuid": "2a1ee4ed-1d4b-43e9-8ca0-4fccf50bb4ca",
+      "DisplayName": "PerfectNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
