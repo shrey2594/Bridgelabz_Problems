@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bd8d83c-cc30-47e2-8944-04e58a8d397c": {
+      "ProjectGuid": "8bd8d83c-cc30-47e2-8944-04e58a8d397c",
+      "DisplayName": "Harmonic Number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
