@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.exe
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.deps.json
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.runtimeconfig.json
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.dll
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\ref\FibonacciSeries.dll
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.dll
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\ref\FibonacciSeries.dll
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\dell\Desktop\.net_bridgelabz\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.genruntimeconfig.cache
